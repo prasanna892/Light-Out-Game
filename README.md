@@ -20,7 +20,7 @@
 
 ## Output
 
-<img src="" />
+<img src="https://github.com/prasanna892/Light-Out-Game/blob/main/gif.gif" />
 
 ## Requirement
 
