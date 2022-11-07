@@ -18,6 +18,10 @@
 
 #### Enjoy the game 😊
 
+## Output
+
+<img src="" />
+
 ## Requirement
 
 * python3<br>
