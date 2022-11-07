@@ -1,6 +1,6 @@
 # Light-Out-Game
 
-## A fun brain game using pygame module python
+### A fun brain game using pygame module python
 
 ### How to win?
 ####      Just pass the entered red laser light the screen 
